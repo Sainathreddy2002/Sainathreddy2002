@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sainathreddy2002
-- 👀 I’m interested in ...App development,3DWeb development,Ar-Vr
-- 🌱 I’m currently learning Javascript,React,Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in App development,3DWeb development,Ar-Vr.
+- 🌱 I’m currently working on Javascript,React,Flutter and Java.
+- 💞️ I’m looking to collaborate via mails.
 - 📫 How to reach me sainathreddypala@gmail.com
 
 <!---
